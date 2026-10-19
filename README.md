@@ -2,6 +2,17 @@
 
 A complete single-store e-commerce admin dashboard built with Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, and Supabase.
 
+## Live demo
+
+**URL:** https://dashboard-orcin-nine-94.vercel.app
+
+**Demo login**
+- Email: `demo@skeeks.app`
+- Password: `DemoStore`
+
+This account is for portfolio viewing only. Data may be reset periodically.
+Do not use real personal or payment information.
+
 ## Features
 
 - **Authentication**: Email/password login and registration using Supabase Auth
